@@ -3,7 +3,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[Excel-Scenario Planning Tool](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[Excel-Scenario Planning Tool](https://github.com/harihub98/Excel-Scenario-Planning-Tool/blob/main/Scenario%20Planning%20Tool.pdf)_ 
 
 
 - **Purpose of Scenario Planning Tool:** Enables decision-makers to identify ranges of potential outcomes and estimated impacts, evaluate responses and manage for both positive and negative possibilities.
